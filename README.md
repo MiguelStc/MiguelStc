@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">I'm a junior web developer</h3>
+
 
 <img src="https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-programming/jcr:content/Grid/category_atl_1605/layout-category-atl/anchor_info_d47d.img.png/1647337863145.png" alt="computer programming" width=100% height="350"/>
 
 
-
+<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h3 align="center">I'm a junior web developer</h3>
 <p align="left">
 </p>
 
