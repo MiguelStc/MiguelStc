@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">I'm a junior web developer</h3>
+![Alt Text](Image URL)
+<img src="https://bairesdev.mo.cloudinary.net/blog/2022/01/programming-languages-1.jpg?tx=w_1920,q_auto" alt=" an ilage of a developper" width="40" height="40"/>
+
 
 
 <p align="left">
