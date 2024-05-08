@@ -1,6 +1,6 @@
 
 
-<img src="https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-programming/jcr:content/Grid/category_atl_1605/layout-category-atl/anchor_info_d47d.img.png/1647337863145.png" alt="computer programming" width=100% height="350"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*06ujBAXVeGHGifgqzuMn6Q.jpeg" width=100% height="350"/>
 
 
 <h1 align="center">Hi 👋, I'm Miguel</h1>
