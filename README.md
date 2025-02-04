@@ -1,6 +1,6 @@
 # ✨ Miguel ✨ 👋  
 
-## 🧑‍💻 Junior Full Stack Developer  
+## 🧑‍💻 Junior web & Data Developer  
 
 ### Experience  
 - 👨🏻‍💻 **1 year of experience**  
