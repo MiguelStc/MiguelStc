@@ -1,20 +1,29 @@
-Hi there, I'm ✨ Miguel ✨ 👋
+# ✨ Miguel ✨ 👋  
 
-I'm a  junior full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />,
+## 🧑‍💻 Junior Full Stack Developer  
 
-Experience includes :
-👨🏻‍💻 1 year of experience
-🌱 I’m currently learning everything 🤣
-💡 I love innovation and new technologies
-🥅 2025 Goals: Keep learning and get my 1st full time job
+### Experience  
+- 👨🏻‍💻 **1 year of experience**  
+- 🌱 **I’m currently learning everything** 🤣  
+- 💡 **I love innovation and new technologies**  
+- 🥅 **2025 Goals:** Keep learning and get my **1st full-time job**  
 
-⚡ Fun fact: I love Tricking , Gymnastics , Parkour 🎮 video games,  and  🎹 music production 
+### ⚡ Fun Facts  
+I love:  
+- 🏃 **Tricking, Gymnastics, Parkour**  
+- 🎮 **Video Games**  
+- 🎹 **Music Production**  
 
-Professional interests include (but are not limited to):
+### 💼 Professional Interests  
+- 💬 **Developer Relations**  
+- 🧪 **Product Strategy & Development**  
+- 🚀 **Marketing**  
+- 📊 **Data Cleaning & Visualization**  
+- 🎨 **User Experience & Interface Design**  
 
-💬 Developer Relations
-🧪 Product Strategy & Development
-🚀 Marketing
-📊 Data cleaning & visualization 
-🎨 User Experience & Interface Design
+---
+
+📫 **Let's Connect!**  
+Feel free to reach out and collaborate! 🚀  
+
 
