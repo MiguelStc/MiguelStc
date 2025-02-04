@@ -1,6 +1,6 @@
 # ✨ Miguel ✨ 👋  
 
-## 🧑‍💻 Junior web & Data Developer  
+## 🧑‍💻 Junior Web & Data Developer  
 
 ### Experience  
 - 👨🏻‍💻 **1 year of experience**  
