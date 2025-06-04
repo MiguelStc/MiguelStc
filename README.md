@@ -6,7 +6,7 @@
 - 👨🏻‍💻 **1 year of experience**  
 - 🌱 **I’m currently learning everything** 🤣  
 - 💡 **I love innovation and new technologies**  
-- 🥅 **2025 Goals:** Keep learning and get my **1st full-time job**  ✅
+- 🥅 **2025 Goals:** Keep learning and get my **1st full-time job**  ✅ (Done)
 
 ### ⚡ Fun Facts  
 I love:  
