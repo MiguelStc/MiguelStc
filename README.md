@@ -10,7 +10,7 @@
 
 ### ⚡ Fun Facts  
 I love:  
-- 🏃 **Tricking, Gymnastics, Parkour**  
+- 🏃 **Tricking, Gymnastics**  
 - 🎮 **Video Games**  
 - 🎹 **Music Production**  
 
